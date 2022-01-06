@@ -11,3 +11,7 @@ Day 2: January 4, 22
 Day 3: January 5, 22
 
 **Today's progress**: Learnt about and created a p(paragraph) element..
+
+Day 4: January 6, 22
+
+**Today's Progress**: Learnt about how to fill in blanks with placeholder texts, the difference between commenting and uncommenting, and how to comment out an element..
