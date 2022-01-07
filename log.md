@@ -15,3 +15,7 @@ Day 3: January 5, 22
 Day 4: January 6, 22
 
 **Today's Progress**: Learnt about how to fill in blanks with placeholder texts, the difference between commenting and uncommenting, and how to comment out an element..
+
+Day 5: January 7, 22
+
+**Today's progress**: Learnt how to add images to a website and links to external pages.
