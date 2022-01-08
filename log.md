@@ -19,3 +19,7 @@ Day 4: January 6, 22
 Day 5: January 7, 22
 
 **Today's progress**: Learnt how to add images to a website and links to external pages.
+
+Day 6: January 8, 22
+
+**Today's Progress**: Created a dead link, and nested the an Anchor element within a paragraph.
