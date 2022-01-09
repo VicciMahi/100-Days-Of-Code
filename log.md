@@ -23,3 +23,7 @@ Day 5: January 7, 22
 Day 6: January 8, 22
 
 **Today's Progress**: Created a dead link, and nested the an Anchor element within a paragraph.
+
+Day 7: January 9, 22
+
+**Today's Progress: Turned an image into a link.
