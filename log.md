@@ -26,4 +26,8 @@ Day 6: January 8, 22
 
 Day 7: January 9, 22
 
-**Today's Progress: Turned an image into a link.
+**Today's Progress**: Turned an image into a link.
+
+Day 8: January 10, 22
+
+**Today's Progress**: Had so much fun creating ordered, and unordered lists. my favorite so far.
