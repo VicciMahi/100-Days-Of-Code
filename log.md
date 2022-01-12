@@ -35,3 +35,7 @@ Day 8: January 10, 22
 Day 9: January 11, 22
 
 **Today's Progress**: Created a Text Field. Added Placeholder Text to a Text Field.
+
+Day 10: January 12, 22
+
+**Today's Progress**: Created a form element, and added a submit button to the form.
