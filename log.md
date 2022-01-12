@@ -31,3 +31,7 @@ Day 7: January 9, 22
 Day 8: January 10, 22
 
 **Today's Progress**: Had so much fun creating ordered, and unordered lists. my favorite so far.
+
+Day 9: January 11, 22
+
+**Today's Progress**: Created a Text Field. Added Placeholder Text to a Text Field.
