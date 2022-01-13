@@ -39,3 +39,7 @@ Day 9: January 11, 22
 Day 10: January 12, 22
 
 **Today's Progress**: Created a form element, and added a submit button to the form.
+
+Day 11: January 13, 22
+
+**Today's Progress**: Learnt that making a field "required" is very necessary in getting users to enter an answer to a field before submitting their entry.
