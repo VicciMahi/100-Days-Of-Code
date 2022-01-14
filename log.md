@@ -43,3 +43,9 @@ Day 10: January 12, 22
 Day 11: January 13, 22
 
 **Today's Progress**: Learnt that making a field "required" is very necessary in getting users to enter an answer to a field before submitting their entry.
+
+Day 12: January 14, 22
+
+**Today's Progress**: Checkboxes and Radio Buttons, another stuff I enjoyed working on..
+
+
