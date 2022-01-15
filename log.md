@@ -48,4 +48,8 @@ Day 12: January 14, 22
 
 **Today's Progress**: Checkboxes and Radio Buttons, another stuff I enjoyed working on..
 
+Day 13: January 15, 22
+
+**Today's Progress**: About to round it off with Basic HTML..
+
 
