@@ -52,4 +52,8 @@ Day 13: January 15, 22
 
 **Today's Progress**: About to round it off with Basic HTML..
 
+Day 14: January 16, 22
+
+**Today's Progress**: And it's a wrap for Basic HTML. Basic CSS up next!
+
 
