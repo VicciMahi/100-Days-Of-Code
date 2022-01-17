@@ -56,4 +56,8 @@ Day 14: January 16, 22
 
 **Today's Progress**: And it's a wrap for Basic HTML. Basic CSS up next!
 
+Day 15: January 17, 22
+
+**Today's Progress**: Started Basic CSS.
+
 
