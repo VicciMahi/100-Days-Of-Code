@@ -61,6 +61,13 @@ Day 15: January 17, 22
 **Today's Progress**: Started Basic CSS.
 
 Day 16: January 18, 22
+
 **Today's Progress**: Worked on styling multiple HTML elements, changing the font size of an element, and setting the font family of an element.
+
+Day 17: January 19, 22
+
+**Today's Progress**: Worked on sizing images, importing a font, degrading of fonts..
+
+
 
 
