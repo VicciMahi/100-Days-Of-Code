@@ -68,6 +68,10 @@ Day 17: January 19, 22
 
 **Today's Progress**: Worked on sizing images, importing a font, degrading of fonts..
 
+Day 18: January 20, 22
+
+**Today's Progress**: Worked with borders, colours, and backgrounds.
+
 
 
 
