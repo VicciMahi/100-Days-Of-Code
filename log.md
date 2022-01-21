@@ -72,6 +72,10 @@ Day 18: January 20, 22
 
 **Today's Progress**: Worked with borders, colours, and backgrounds.
 
+Day 19: January 21, 22
+
+**Today's Progress**: Padding, id attribute, and element id..
+
 
 
 
