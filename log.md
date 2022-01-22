@@ -76,6 +76,10 @@ Day 19: January 21, 22
 
 **Today's Progress**: Padding, id attribute, and element id..
 
+Day 20: January 22, 22
+
+**Today's Progress**: Basically worked on margin of an element..
+
 
 
 
