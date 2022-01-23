@@ -80,6 +80,10 @@ Day 20: January 22, 22
 
 **Today's Progress**: Basically worked on margin of an element..
 
+Day 21: January 23, 22
+
+**Today's Progress**: Understanding Absolute versus Relative units..
+
 
 
 
