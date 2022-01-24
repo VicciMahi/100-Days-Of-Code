@@ -84,6 +84,10 @@ Day 21: January 23, 22
 
 **Today's Progress**: Understanding Absolute versus Relative units..
 
+Day 22: January 24, 22
+
+**Today's Progress**: Explored different ways you can override CSS Styles and Class Declarations. Like it when you have options...
+
 
 
 
