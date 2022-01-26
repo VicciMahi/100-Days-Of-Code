@@ -92,6 +92,10 @@ Day 23: January 25, 22
 
 **Today's Progress**: Application of Hex codes..
 
+Day 24: January 26, 22
+
+**Today's Progress**: Application of RGB values..
+
 
 
 
