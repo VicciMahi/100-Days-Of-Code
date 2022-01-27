@@ -96,6 +96,10 @@ Day 24: January 26, 22
 
 **Today's Progress**: Application of RGB values..
 
+Day 25: January 27, 22
+
+**Today's Progress**: Got started on Applied Visual Design..
+
 
 
 
