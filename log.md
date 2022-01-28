@@ -100,6 +100,10 @@ Day 25: January 27, 22
 
 **Today's Progress**: Got started on Applied Visual Design..
 
+Day 26: January 28, 22
+
+**Today's Progress**: Application of Tags..
+
 
 
 
