@@ -104,6 +104,10 @@ Day 26: January 28, 22
 
 **Today's Progress**: Application of Tags..
 
+Day 27: January 29, 22
+
+**Today's Progress**: Adjusting elements using background properties..
+
 
 
 
