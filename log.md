@@ -108,6 +108,10 @@ Day 27: January 29, 22
 
 **Today's Progress**: Adjusting elements using background properties..
 
+Day 28: January 30, 22
+
+**Today's Progress**: Worked with text-transform properties..
+
 
 
 
