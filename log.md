@@ -112,6 +112,12 @@ Day 28: January 30, 22
 
 **Today's Progress**: Worked with text-transform properties..
 
+Day 29: January 31, 22
+
+**Today,s Progress**: Element positioning..
+
+  
+
 
 
 
