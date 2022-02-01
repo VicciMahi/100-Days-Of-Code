@@ -116,6 +116,10 @@ Day 29: January 31, 22
 
 **Today,s Progress**: Element positioning..
 
+Day 30: February 1, 22
+
+**Today's Progress**: Worked with float, margin, and index properties..
+
   
 
 
