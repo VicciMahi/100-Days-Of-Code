@@ -120,6 +120,10 @@ Day 30: February 1, 22
 
 **Today's Progress**: Worked with float, margin, and index properties..
 
+Day 31: February 2, 22
+
+**Today's Progress**: Primary, secondary, and tertiary colors with their different color codes..
+
   
 
 
