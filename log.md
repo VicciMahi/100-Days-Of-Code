@@ -124,6 +124,12 @@ Day 31: February 2, 22
 
 **Today's Progress**: Primary, secondary, and tertiary colors with their different color codes..
 
+Day 32: February 3, 22:
+
+**Today's Progress**: CSS gradients..
+
+
+
   
 
 
