@@ -128,6 +128,10 @@ Day 32: February 3, 22:
 
 **Today's Progress**: CSS gradients..
 
+Day 33: February 4, 22:
+
+**Today's Progress**: CSS transform proprties..
+
 
 
   
