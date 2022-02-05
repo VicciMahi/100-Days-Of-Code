@@ -132,6 +132,10 @@ Day 33: February 4, 22:
 
 **Today's Progress**: CSS transform proprties..
 
+Day 34: February 5, 22:
+
+**Today's Progress**: Creating shapes and graphics using CSS..
+
 
 
   
