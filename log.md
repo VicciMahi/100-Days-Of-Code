@@ -124,17 +124,21 @@ Day 31: February 2, 22
 
 **Today's Progress**: Primary, secondary, and tertiary colors with their different color codes..
 
-Day 32: February 3, 22:
+Day 32: February 3, 22
 
 **Today's Progress**: CSS gradients..
 
-Day 33: February 4, 22:
+Day 33: February 4, 22
 
 **Today's Progress**: CSS transform proprties..
 
-Day 34: February 5, 22:
+Day 34: February 5, 22
 
 **Today's Progress**: Creating shapes and graphics using CSS..
+
+Day 35: February 6, 22
+
+**Today's Progress**: CSS animations..
 
 
 
