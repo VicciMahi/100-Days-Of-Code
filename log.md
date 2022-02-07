@@ -140,6 +140,10 @@ Day 35: February 6, 22
 
 **Today's Progress**: CSS animations..
 
+Day 36: February 7, 22
+
+**Today's Progress**: Bezier curves..
+
 
 
   
