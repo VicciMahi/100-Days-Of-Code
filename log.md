@@ -144,6 +144,10 @@ Day 36: February 7, 22
 
 **Today's Progress**: Bezier curves..
 
+Day 37: February 8, 22
+
+**Today's Progress**: Applied Accesibility training..
+
 
 
   
