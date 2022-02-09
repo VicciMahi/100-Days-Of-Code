@@ -148,6 +148,10 @@ Day 37: February 8, 22
 
 **Today's Progress**: Applied Accesibility training..
 
+Day 38: February 9, 22
+
+**Today's Progress**: Adding semantic meaning to markups using article..
+
 
 
   
