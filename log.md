@@ -152,6 +152,10 @@ Day 38: February 9, 22
 
 **Today's Progress**: Adding semantic meaning to markups using article..
 
+Day 39: February 10, 22
+
+**Today's progress**: Screen reader navigation..
+
 
 
   
