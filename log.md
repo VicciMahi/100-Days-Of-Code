@@ -154,7 +154,11 @@ Day 38: February 9, 22
 
 Day 39: February 10, 22
 
-**Today's progress**: Screen reader navigation..
+**Today's Progress**: Screen reader navigation..
+
+Day 40: February 11, 22
+
+**Today's Progress**: Improving chart Accesibility with the figure Element..
 
 
 
