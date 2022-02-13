@@ -160,6 +160,16 @@ Day 40: February 11, 22
 
 **Today's Progress**: Improving chart Accesibility with the figure Element..
 
+Day 41: February 12, 22
+
+**Today's Progress**: Worked on: wrapping radio buttond in a fieldset element for better Accesibility.
+                                 Standerdizing times with the HTML5 datetime attribute.
+                                 Making elements only visibible to a screen reader by using custom CSS..
+                                 
+Day 42: February 13, 22
+
+**Today's Progress**: Worked on how to avoid color blindness by using suficient contrast and carefully choosing colors that convey information..
+
 
 
   
