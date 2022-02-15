@@ -170,9 +170,13 @@ Day 42: February 13, 22
 
 **Today's Progress**: Worked on how to avoid color blindness by using suficient contrast and carefully choosing colors that convey information..
 
-Day 43: February 13, 22
+Day 43: February 14, 22
 
 **Today's Progress**: Learnt how to create media queries..
+
+Day 44: February 15, 22
+
+**Today's Progress**: Learnt how and where to apply CSS Flexbox..
 
 
 
