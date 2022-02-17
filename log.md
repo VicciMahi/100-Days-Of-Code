@@ -182,7 +182,7 @@ Day 45: February 16, 22
 
 **Today's Progress**: Worked with justify-content and align-items properties... Here's a link to my Twitter post: https://twitter.com/viccimahi/status/1493957176381132814?s=20&t=EnkCPGcQOqojMmtq6afJ8Q
 
-Day 46: February, 22
+Day 46: February 17, 22
 
 **Today's Progress**: Learnt the apllication of flex-wrap and flex-grow properties.. 
 
