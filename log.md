@@ -186,6 +186,10 @@ Day 46: February 17, 22
 
 **Today's Progress**: Learnt the apllication of flex-wrap and flex-grow properties.. 
 
+Day 47: February 18, 22
+
+**Today's Progress**: Started CSS grid lessons https://twitter.com/viccimahi/status/1494712937524736000?s=21
+
 
   
 
