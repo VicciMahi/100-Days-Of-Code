@@ -190,6 +190,10 @@ Day 47: February 18, 22
 
 **Today's Progress**: Started CSS grid lessons https://twitter.com/viccimahi/status/1494712937524736000?s=21
 
+Day 48: February 19, 22
+
+**Today's Progress**: CSS Grid gaps and columns.. https://twitter.com/viccimahi/status/1495103291713282055?s=21 
+
 
   
 
