@@ -194,6 +194,10 @@ Day 48: February 19, 22
 
 **Today's Progress**: CSS Grid gaps and columns.. https://twitter.com/viccimahi/status/1495103291713282055?s=21 
 
+Day 49: February 20, 22
+
+**Today's Progress**: Created flexible layouts using auto-fill and auto-fix.. https://twitter.com/viccimahi/status/1495471780571623426?s=21
+
 
   
 
