@@ -198,6 +198,10 @@ Day 49: February 20, 22
 
 **Today's Progress**: Created flexible layouts using auto-fill and auto-fix.. https://twitter.com/viccimahi/status/1495471780571623426?s=21
 
+Day 50: February 21, 22
+
+**Today's Progress**: Rounded off Responsive Web Design lessons. Time to apply the skills learned by working on some projects.. https://twitter.com/viccimahi/status/1495808889631219713?s=21
+
 
   
 
