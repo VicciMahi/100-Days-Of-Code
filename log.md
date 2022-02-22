@@ -202,6 +202,10 @@ Day 50: February 21, 22
 
 **Today's Progress**: Rounded off Responsive Web Design lessons. Time to apply the skills learned by working on some projects.. https://twitter.com/viccimahi/status/1495808889631219713?s=21
 
+Day: February 22, 22
+
+**Today's Progress**: Built my first HTML and CSS project (a tribute page) https://twitter.com/viccimahi/status/1496175738323714056?s=21
+
 
   
 
