@@ -208,7 +208,11 @@ Day 51: February 22, 22
 
 Day 52: February 23, 22
 
-**Todaay's Progress**: Built a Fashion Survey form using HTML and CSS.. https://twitter.com/viccimahi/status/1496573558725693447?s=21
+**Today's Progress**: Built a Fashion Survey form using HTML and CSS.. https://twitter.com/viccimahi/status/1496573558725693447?s=21
+
+Day 53: February 24, 22
+
+**Today's Progress**: Built a Technical documentation Project.. https://twitter.com/viccimahi/status/1496850944138653703?s=21
 
 
   
