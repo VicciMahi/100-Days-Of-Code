@@ -214,6 +214,10 @@ Day 53: February 24, 22
 
 **Today's Progress**: Built a Technical documentation Project.. https://twitter.com/viccimahi/status/1496850944138653703?s=21
 
+Day 54: February 25, 22
+
+**Today's Progress**: Completed Responsive web Design (Basic HTML and CSS).. https://twitter.com/viccimahi/status/1497306119617884160?s=21
+
 
   
 
