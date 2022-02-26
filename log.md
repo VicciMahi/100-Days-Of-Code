@@ -218,6 +218,10 @@ Day 54: February 25, 22
 
 **Today's Progress**: Completed Responsive web Design (Basic HTML and CSS).. https://twitter.com/viccimahi/status/1497306119617884160?s=21
 
+Day 55: February 26, 22
+
+**Today's Progress**: Started Basic Javascript lessons.. https://twitter.com/viccimahi/status/1497542858756304900?s=21
+
 
   
 
