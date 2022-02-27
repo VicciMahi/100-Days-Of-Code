@@ -222,6 +222,10 @@ Day 55: February 26, 22
 
 **Today's Progress**: Started Basic Javascript lessons.. https://twitter.com/viccimahi/status/1497542858756304900?s=21
 
+Day 56: February 27, 22
+
+**Today's Progress**: Storing and installing values with Javascript.. https://twitter.com/viccimahi/status/1498037445081894926?s=21
+
 
   
 
