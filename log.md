@@ -226,6 +226,12 @@ Day 56: February 27, 22
 
 **Today's Progress**: Storing and installing values with Javascript.. https://twitter.com/viccimahi/status/1498037445081894926?s=21
 
+Day 57: February 28, 22
+
+**Today's Progress**: Struggling a bit with JS, hope to get better at it soon.. https://twitter.com/viccimahi/status/1498378657081053191?s=21
+
+
+
 
   
 
