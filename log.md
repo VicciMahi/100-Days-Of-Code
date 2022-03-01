@@ -230,6 +230,10 @@ Day 57: February 28, 22
 
 **Today's Progress**: Struggling a bit with JS, hope to get better at it soon.. https://twitter.com/viccimahi/status/1498378657081053191?s=21
 
+Day 58: Marrch 1, 22
+
+**Tosay's Progress**: Numeric data structures.. https://twitter.com/viccimahi/status/1498725160811126785?s=21
+
 
 
 
