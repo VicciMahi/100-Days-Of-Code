@@ -232,7 +232,11 @@ Day 57: February 28, 22
 
 Day 58: Marrch 1, 22
 
-**Tosay's Progress**: Numeric data structures.. https://twitter.com/viccimahi/status/1498725160811126785?s=21
+**Today's Progress**: Numeric data structures.. https://twitter.com/viccimahi/status/1498725160811126785?s=21
+
+Day 59: March 2, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1499130921257250824?s=21
 
 
 
