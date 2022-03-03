@@ -238,6 +238,10 @@ Day 59: March 2, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1499130921257250824?s=21
 
+Day 50: March 3, 22
+
+**Today's Progress**: Compound Assignment with Augmented Addition, Subtraction, Multiplication, and Division.. https://twitter.com/viccimahi/status/1499493573187842055?s=21
+
 
 
 
