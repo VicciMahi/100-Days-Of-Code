@@ -233,7 +233,6 @@ Day 57: February 28, 22
 Day 58: Marrch 1, 22
 
 **Today's Progress**: Numeric data structures.. https://twitter.com/viccimahi/status/1498725160811126785?s=21
-
 Day 59: March 2, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1499130921257250824?s=21
@@ -241,6 +240,10 @@ Day 59: March 2, 22
 Day 60: March 3, 22
 
 **Today's Progress**: Compound Assignment with Augmented Addition, Subtraction, Multiplication, and Division.. https://twitter.com/viccimahi/status/1499493573187842055?s=21
+
+Day 61: March 4, 22
+
+**Today's Progress**: Quoting and Concentrating strings.. https://twitter.com/viccimahi/status/1499879285288587266?s=21
 
 
 
