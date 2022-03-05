@@ -245,6 +245,10 @@ Day 61: March 4, 22
 
 **Today's Progress**: Quoting and Concentrating strings.. https://twitter.com/viccimahi/status/1499879285288587266?s=21
 
+Day 62: March 5, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1500205390973313024?s=21
+
 
 
 
