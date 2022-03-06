@@ -249,13 +249,9 @@ Day 62: March 5, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1500205390973313024?s=21
 
+Day 63: March 6, 22
 
-
-
-  
-
-
-
+**Today's Progress**: Bracket notation and string immutability.. ..
 
 
 
