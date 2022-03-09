@@ -261,5 +261,9 @@ Day 65: March 8, 22
 
 Today's Progress**: https://twitter.com/viccimahi/status/1501299313544253443?s=21
 
+Day 66: March 9, 22
+
+Today's Progress**: https://twitter.com/viccimahi/status/1501625121802444800?s=21
+
 
 
