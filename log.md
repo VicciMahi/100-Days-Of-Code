@@ -269,5 +269,9 @@ Day 67: March 10, 22
 
 Today's Progress**: https://twitter.com/viccimahi/status/1501968873779875845?s=21
 
+Day 68: March 11, 22
+
+**Today's Progress**: Comparing different values.. 
+
 
 
