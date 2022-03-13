@@ -277,6 +277,10 @@ Day 69: March 12, 22
 
 **Today's Progress**: Introducing else and else if statements.. https://twitter.com/viccimahi/status/1502767998150578192?s=21
 
+Day 70: March 13, 22
+
+**Today's Progress**: Golf code and switch statements.. 
+
 
 
 
