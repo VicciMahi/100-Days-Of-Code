@@ -281,6 +281,10 @@ Day 70: March 13, 22
 
 **Today's Progress**: Golf code and switch statements.. 
 
+Day 71: March 14, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1503457834121535493?s=21
+
 
 
 
