@@ -285,9 +285,13 @@ Day 71: March 14, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1503457834121535493?s=21
 
-Day 72: March 14, 22 
+Day 72: March 15, 22 
 
 **Today's Progress**: Accessing object properties.. https://twitter.com/viccimahi/status/1503791305020907528?s=21
+
+Day 73: March 16, 22
+
+**Today's Progress**: Javascript objects and properties.. 
 
 
 
