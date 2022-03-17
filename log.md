@@ -293,6 +293,10 @@ Day 73: March 16, 22
 
 **Today's Progress**: Javascript objects and properties.. 
 
+Day 74: March 17, 22
+
+**Today's Progress**: Accesssing nested objects and nested arrays. Record collection.. 
+
 
 
 
