@@ -301,6 +301,12 @@ Day 75: March 18, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1504933267803357192?s=21
 
+Day 76: March 19, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1505283675889541123?s=21
+
+
+
 
 
 
