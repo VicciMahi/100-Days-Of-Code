@@ -305,6 +305,10 @@ Day 76: March 19, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1505283675889541123?s=21
 
+Day 77: March 20, 22
+
+**Today's Progress**: Generating Random Fractions and Whole Numbers using Javascript.. 
+
 
 
 
