@@ -309,6 +309,10 @@ Day 77: March 20, 22
 
 **Today's Progress**: Generating Random Fractions and Whole Numbers using Javascript.. 
 
+Day 78: March 21, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1506016832817229824?s=21
+
 
 
 
