@@ -313,6 +313,10 @@ Day 78: March 21, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1506016832817229824?s=21
 
+Day 79: March 22, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1506295894454550546?s=21
+
 
 
 
