@@ -321,6 +321,10 @@ Day 80: March 23, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1506710745400188931?s=21
 
+Day 81: March 24, 22
+
+**Today's Progress**: Using Destructuring Assignments to assign variables. . 
+
 
 
 
