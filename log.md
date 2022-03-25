@@ -325,6 +325,10 @@ Day 81: March 24, 22
 
 **Today's Progress**: Using Destructuring Assignments to assign variables. . 
 
+Day 82: March 25, 22
+
+**Today's Progress**: 
+
 
 
 
