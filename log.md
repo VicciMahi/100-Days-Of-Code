@@ -327,7 +327,11 @@ Day 81: March 24, 22
 
 Day 82: March 25, 22
 
-**Today's Progress**: 
+**Today's Progress**: https://twitter.com/viccimahi/status/1507252900464054302?s=21&t=dlR94ssfvZ7ZPaObB52VBQ
+
+Day 83: March 26, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1507732730188021767?s=21&t=PBhMByTrwqxm9LJmLYVnLQ
 
 
 
