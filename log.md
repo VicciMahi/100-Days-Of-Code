@@ -345,6 +345,10 @@ Day 86: March 30, 22
 
 **Today's Progress**: Today, I learned about matching literal strings.. https://twitter.com/viccimahi/status/1509209858280771591?s=21&t=WseRiQDtn-p62upWwn-QlQ
 
+Day 87: March 31, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1509616940532256770?s=21&t=sKEobWJQwYwKYfd_066otg
+
 
 
 
