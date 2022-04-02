@@ -353,6 +353,10 @@ Day 88: April 1, 22
 
 **Today's Progress**: Matching Characters..
 
+Day 89: April 2, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1510364795547049991?s=21&t=zFdY9n_3Ek4aIfn72XuVzQ
+
 
 
 
