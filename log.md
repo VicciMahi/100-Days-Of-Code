@@ -373,6 +373,10 @@ Day 93: April 6, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1511786442573455360?s=21&t=5Q5YFHxOZS9YnJK6BIJk_g
 
+Day 94: April 7, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1512175285684293636?s=21&t=a9L_M2aOgzC45xHi38vAJQ
+
 
 
 
