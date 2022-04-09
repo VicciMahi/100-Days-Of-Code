@@ -381,6 +381,10 @@ Day 95: April 8, 22
 
 **Today's Progress**: https://twitter.com/viccimahi/status/1512521292196503555?s=21&t=bA28uqwB0CfW_q_CKbk9yQ
 
+Day 96: April 9, 22
+
+**Today's Progress**: Removal and adding of items using Pop, Shift, and Slice.. 
+
 
 
 
