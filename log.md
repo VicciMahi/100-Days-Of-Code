@@ -385,6 +385,10 @@ Day 96: April 9, 22
 
 **Today's Progress**: Removal and adding of items using Pop, Shift, and Slice.. 
 
+Day 97: April 10, 22
+
+**Today's Progress**: Copying and combining Arrays using the Spread Operator..
+
 
 
 
