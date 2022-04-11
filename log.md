@@ -389,6 +389,10 @@ Day 97: April 10, 22
 
 **Today's Progress**: Copying and combining Arrays using the Spread Operator..
 
+Day 98: April 11, 22
+
+**Today's Progress**: https://twitter.com/viccimahi/status/1513605502537814025?s=21&t=PsRQH5eADGMkmr9M6-P3PA
+
 
 
 
