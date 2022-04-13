@@ -397,6 +397,9 @@ Day 99: April 12, 22
 
 **Today's Project**: Object keys and Object properties..
 
+Day 100: April 13, 22
+
+**Today's Progress**: Day 100/100! I committed to getting this done, and i did!! 
 
 
 
